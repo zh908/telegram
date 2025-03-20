@@ -1,0 +1,12 @@
+pyrogram
+psutil
+TgCrypto
+pyromod==1.5
+# --- For-Database ------------ #
+pymongo
+dnspython
+# --- For-Web-Response ------- #
+aiohttp
+apscheduler
+pytz
+requests
